@@ -2,6 +2,8 @@ const OFF = 0;
 const WARN = 1;
 const ERROR = 2;
 
+console.log(1111);
+
 module.exports = {
   env: {
     browser: true,
